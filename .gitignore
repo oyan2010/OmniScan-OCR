@@ -1,0 +1,23 @@
+# Byte-compiled / optimized
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# Local configuration & cache
+config.json
+*.tmp
+temp/
+output/
+downloads/
+
+# IDE & OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

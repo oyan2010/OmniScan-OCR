@@ -1,0 +1,7 @@
+PyQt6>=6.6.0
+easyocr>=1.7.1
+PyMuPDF>=1.23.0
+Pillow>=10.0.0
+keyboard>=0.13.5
+pyperclip>=1.8.2
+google-generativeai>=0.4.0
